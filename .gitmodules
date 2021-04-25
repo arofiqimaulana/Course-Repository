@@ -7,3 +7,6 @@
 [submodule "Udemy-Algorithmic-Problem-in-Python"]
 	path = Udemy-Algorithmic-Problem-in-Python
 	url = https://github.com/arofiqimaulana/Udemy-Algorithmic-Problem-in-Python
+[submodule "Datacamp-Course"]
+	path = Datacamp-Course
+	url = https://github.com/arofiqimaulana/Datacamp-Course
