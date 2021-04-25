@@ -10,3 +10,6 @@
 [submodule "Datacamp-Course"]
 	path = Datacamp-Course
 	url = https://github.com/arofiqimaulana/Datacamp-Course
+[submodule "Course-Python-For-Data-Analysis"]
+	path = Course-Python-For-Data-Analysis
+	url = https://github.com/arofiqimaulana/Course-Python-For-Data-Analysis
