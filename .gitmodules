@@ -4,3 +4,6 @@
 [submodule "udemy-python-for-data-science"]
 	path = udemy-python-for-data-science
 	url = https://github.com/arofiqimaulana/udemy-python-for-data-science
+[submodule "Udemy-Algorithmic-Problem-in-Python"]
+	path = Udemy-Algorithmic-Problem-in-Python
+	url = https://github.com/arofiqimaulana/Udemy-Algorithmic-Problem-in-Python
