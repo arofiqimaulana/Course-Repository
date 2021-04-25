@@ -1,3 +1,6 @@
 [submodule "DQLab-Course"]
 	path = DQLab-Course
 	url = https://github.com/arofiqimaulana/DQLab-Course
+[submodule "udemy-python-for-data-science"]
+	path = udemy-python-for-data-science
+	url = https://github.com/arofiqimaulana/udemy-python-for-data-science
