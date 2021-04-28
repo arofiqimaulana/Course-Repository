@@ -1,7 +1,7 @@
 # Course Repository
 Berisi mengenai rangkuman Course yang telah saya ikuti di beberapa platform.
 
-## Udemy
+## DataCamp
 - [Intermediate Network Analysis in Python](https://github.com/arofiqimaulana/Datacamp-Course/tree/master/Intermediate%20Network%20Analysis%20in%20Python)
 - [Introduction to Networks](https://github.com/arofiqimaulana/Datacamp-Course/tree/master/Introduction%20to%20Networks)
 - [Manipulating Dataframe with Pandas](https://github.com/arofiqimaulana/Datacamp-Course/tree/master/Manipulating%20Dataframe%20with%20Pandas)
