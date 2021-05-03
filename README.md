@@ -8,6 +8,9 @@ Berisi mengenai rangkuman Course yang telah saya ikuti di beberapa platform.
 - [Object-Oriented Programming in Python](https://github.com/arofiqimaulana/Datacamp-Course/tree/master/Object-Oriented%20Programming%20in%20Python)
 - [Writing Efficient Code in Python](https://github.com/arofiqimaulana/Datacamp-Course/tree/master/Writing%20Efficient%20Code%20in%20Python)
 
+## Coursera
+- [Introduction to Machine Learning](https://github.com/arofiqimaulana/Coursera-Course)
+
 ## DQLab
 - [Basic Feature Discovering for Machine Learnin](https://github.com/arofiqimaulana/DQLab-Course/tree/973b3324d7d3860d1e64a7976af886494b4cb383/Basic%20Feature%20Discovering%20for%20Machine%20Learning)
 - [Business Decision Research](https://github.com/arofiqimaulana/DQLab-Course/tree/973b3324d7d3860d1e64a7976af886494b4cb383/Business%20Decision%20Research)
