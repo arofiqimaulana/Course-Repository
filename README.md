@@ -24,5 +24,8 @@ Berisi mengenai rangkuman Course yang telah saya ikuti di beberapa platform.
 - [Udemy Algorithmic Problem in Python](https://github.com/arofiqimaulana/Udemy-Algorithmic-Problem-in-Python/tree/fd2b0897268ede73575a15f31ee8bd8094ff0bdb)
 - [udemy-python-for-data-science](https://github.com/arofiqimaulana/udemy-python-for-data-science/tree/7af3943ffef3206cbc73230a5b99286d9c3fc223)
 
+## Dicoding
+- [Machine Learning Developer](https://github.com/arofiqimaulana/Dicoding-Academy)
+
 ## My Course
 - [Course Python for Data Analysis](https://github.com/arofiqimaulana/Course-Python-For-Data-Analysis/tree/762d8c9c29ec0d12251c0268bd85f3c6c0b3ae24)
