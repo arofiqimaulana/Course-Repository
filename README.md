@@ -29,3 +29,5 @@ Berisi mengenai rangkuman Course yang telah saya ikuti di beberapa platform.
 
 ## My Course
 - [Course Python for Data Analysis](https://github.com/arofiqimaulana/Course-Python-For-Data-Analysis/tree/762d8c9c29ec0d12251c0268bd85f3c6c0b3ae24)
+
+- [Data Mining](https://github.com/arofiqimaulana/Data-Mining)
