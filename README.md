@@ -28,7 +28,7 @@ Berisi mengenai rangkuman Course yang telah saya ikuti di beberapa platform.
 - [Machine Learning Developer](https://github.com/arofiqimaulana/Dicoding-Academy)
 
 ## deeplearning.ai
-- [Attention in Transformers: Concepts and Code in PyTorch](https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch/lesson/han2t/introduction)
+- [Attention in Transformers: Concepts and Code in PyTorch](https://github.com/arofiqimaulana/deeplearning-ai-course/tree/main/Attention%20in%20Transformers%3A%20Concepts%20and%20Code%20in%20PyTorch)
 
 
 ## My Course
