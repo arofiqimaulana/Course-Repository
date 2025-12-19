@@ -30,6 +30,8 @@ Berisi mengenai rangkuman Course yang telah saya ikuti di beberapa platform.
 ## deeplearning.ai
 - [Attention in Transformers: Concepts and Code in PyTorch](https://github.com/arofiqimaulana/deeplearning-ai-course/tree/main/Attention%20in%20Transformers%3A%20Concepts%20and%20Code%20in%20PyTorch)
 
+## Hackactiv8
+- [LLM-Based Tools and Gemini API Integration for Data Scientists](https://github.com/arofiqimaulana/llm-gemini-hackactive)
 
 ## My Course
 - [Course Python for Data Analysis](https://github.com/arofiqimaulana/Course-Python-For-Data-Analysis/tree/762d8c9c29ec0d12251c0268bd85f3c6c0b3ae24)
